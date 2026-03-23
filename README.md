@@ -12,7 +12,6 @@ The second script, `Analyse_Nets_hego.groovy`, applies this classifier to user-d
 
 Finally, measurements can be exported directly from QuPath as a **.csv (comma-separated values)** file for downstream analysis. Normalization steps, such as dividing the colocalized area by the number of cells, can be performed after export if required.
 
----
 
 ## Step-by-step tutorial
 
@@ -40,8 +39,6 @@ Finally, measurements can be exported directly from QuPath as a **.csv (comma-se
 7. Export results:
    - `Measure > Show measurement table`
    - `Export measurements` → save as `.csv`
-
----
 
 ## Notes
 
